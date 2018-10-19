@@ -1,0 +1,2 @@
+APIKey = '5QuhgZrMu49wPwRDpbJxaQWpKVG5wPOeLN6ynaqCi7bNxt7FWNtnk5cNGKG5aoVc'
+SecretKey = 'scXsmfrzF8Lk9dpKSzLlsnOakN4h0W51mgcQ8inxit1OAjx1ibhmgnV1QufLXwjJ'
